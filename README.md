@@ -2,6 +2,6 @@
 
 ## projet team_work
 
-### TO DO : ajouter un fichier .gitignore
+### TO DO : ajouter un fichier ’.gitignore’
 
 
